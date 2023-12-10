@@ -27,8 +27,8 @@ function desenharDesc(idContainer, objeto) {
             <div class="conteudo">
             <h2>${objeto.nome}</h2>
             </div>
-            <div class="conteudo">${objeto.descricao}</div>
-            <div class="conteudo">${objeto.atividades}</div>
+            <div class="descricao">${objeto.descricao}</div>
+            <div class="atividades">${objeto.atividades}</div>
         </div>
         `
 
